@@ -1,6 +1,6 @@
 package com.driver.test;
 
-import com.driver.EaseMyTrip;
+import com.driver.com.driver.EaseMyTrip;
 import com.driver.controllers.com.driver.AirportController.AirportController;
 import com.driver.model.*;
 import org.junit.jupiter.api.Test;
