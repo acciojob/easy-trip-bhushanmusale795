@@ -1,4 +1,4 @@
-package com.driver.controllers;
+package com.driver.controllers.com.driver.AirportController;
 
 
 import java.util.Date;
@@ -16,7 +16,7 @@ import com.driver.model.City;
 import com.driver.model.Flight;
 import com.driver.model.Passenger;
 
-@SuppressWarnings({ "unused" })
+
 @RestController
 public class AirportController {
     @PostMapping("/add_airport")
